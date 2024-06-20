@@ -103,6 +103,10 @@ footer>p, time{
     #contato div.contDiv #card-contato{
         width: 100%;
     }
+
+    #contCarrosel{
+        padding: 0;
+    }
 }
 
 @media screen and (min-width:700px) and (max-width:1024px){
