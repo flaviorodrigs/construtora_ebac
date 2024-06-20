@@ -57,10 +57,6 @@ section.container .contDiv{
     width: 100%;
 }
 
-.card{
-    max-width: 95%;
-}
-
 .card-body img{
     width: 100%;
 }
@@ -69,6 +65,10 @@ section.container .contDiv{
     display: flex;
     flex-direction: column;
     gap: 10px;
+}
+
+.btn-success{
+    background-color: #025951;
 }
 
 footer{
